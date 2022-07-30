@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>recipes</title>
+    <title> recipes
+    </title>
 </head>
 <body>
     <u>
