@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8" />
+    <title>genius</title>
+</head>
+<body>
+    <table cellspacing="50">
+        <tr>
+            <td>
+                <img src="STRONGER.jpeg" width="300" alt="Это я в молодости"/>
+            </td>
+            <td>
+                <h1>Резюме</h1>
+                <h1>Я Артемий</h1>
+                <p><em>Я основтель SpaceX и Tesla
+                    <strong>Companiy by Ilon Mask's</strong></em></p>
+                <p><em>Я учусь програмирование и интерисюсь в созданиях сайтов. Был опыт у компании Google </em></p>
+            
+            </td>
+        </tr>
+    </table>
+<hr size="10" color="black"> 
+
+<h2>Мои соц-сети </h2>
+<ul type="square">
+    <li>Instagrem - <a href="https://www.youtube.com/watch?v=oT3mCybbhf0&ab_channel=NilsOfficial" target="_blank">link</a></li>
+    <li>Telegraph - <a href="http://clicktoremove.com/" target="_blank">maybe here</a></li>
+    <li>Email - <a href="https://c.tenor.com/epNMHGvRyHcAAAAS/gigachad-chad.gif" target="_blank">ya_artem@gmail.com</a></li>
+</ul>
+<hr>
+<h2>Цели для саморазвитие</h2>
+<ol type="I">
+    <li>Выучитьпару сотен тысяч языков </li>
+    <li>Сдать на права</li>
+    <Li>Отвергнуть предложение Билл Гейтса и Илона Маска, и превзойти их</Li>
+    <Li>Добиться бесконечного развитие в сфере програмирование</Li>
+</ol>
+<hr>
+<h2>Про опыт в програмировании</h2>
+<table border="135">
+        <tr>
+            <th>Company</th>
+            <th>Job title</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+        <td>SpaceX</td>
+        <td>GameDEv</td>
+        <td>2023-2025</td>
+    </tr>
+    <tr>
+        <td>Google Companiy</td>
+        <td>FullStack</td>
+        <td>2025-2023</td>
+    </tr>
+</table>
+<hr>
+<h2>Как готовить еду, одинокому программисту</h2>
+<a href="recipes.html">Рецепы</a>
+</body>
+</html>
+<hr>
+
+<h2>Связатся со моим менеджером</h2>
+
+<form action="/">
+    <label for="name">Как вас назвали родители?</label>
+    <input type="text" id="name" 
+    placeholder="Я разрешаю тебе писать">
+ <br>
+    <label for="email">Введите почту</label>
+    <input type="email" id="email" 
+    placeholder="Я разрешаю тебе писать">
+   
+    <label for="text">И пароль, обезательно:</label>
+    <input type="password" id="text" 
+    placeholder="Я разрешаю тебе писать">
+    
+    <br>
+
+        <label for="text">Ваше сообщение:</label>
+        <br>
+    <textarea name="" id="text" cols="40" rows="5"></textarea>
+    
+    <br>
+
+    <input type="button" value="Жми сюда">
+</form>
